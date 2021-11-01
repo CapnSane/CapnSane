@@ -54,6 +54,6 @@ _I'm Physicist, programmer, developer, and haute cuisine and tech enthusiast!_
 
 <details>
   <summary>⚡<strong>GitHub Stats</strong> </summary>
-  <img align="left" alt="CapnSane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CapnSane&show_icons=true&hide_border=true" />
-  <img align="left" alt="favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapnSane&language=compact&hide_border=true" />
+  <img align="left" alt="CapnSane's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CapnSane&show_icons=true&hide_border=true"/>
+  <img align="left" alt="favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapnSane&language=compact&hide_border=true"/>
 </details>
