@@ -17,7 +17,7 @@ _I'm Physicist, programmer, developer, and haute cuisine and tech enthusiast!_
   - 🧝🏻 WoW player
   - 🧑🏻‍🍳 Amateur chef
   - 🧑🏻‍🎤 Headbanger
-  - :guitar: Upright bass player
+  - 🎻 Upright bass player
 
 ### Technologies I've been working with
 
