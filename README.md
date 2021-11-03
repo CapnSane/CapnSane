@@ -1,6 +1,6 @@
-## Who I am
+## Who am I? Where do I come from?
 
-_I'm Physicist, programmer, developer, and haute cuisine and tech enthusiast!_
+_I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthusiast! I'm from the coldest capital of Brazil, named Curitiba._
 
 <!-- <img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=CapnSane"/> -->
 
