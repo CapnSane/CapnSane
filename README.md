@@ -53,6 +53,8 @@ _I'm Physicist, programmer, developer, musician, and haute cuisine and tech enth
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lnrdschneider/)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/CapnSane)
 
+_Let's get in touch! I would love to hear from you! The best way to reach me is a message on e-mail, but every way is welcome!_
+
 <hr>
 
 <details>
