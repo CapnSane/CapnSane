@@ -61,6 +61,9 @@ _Let's get in touch! I would love to hear from you! The best way to reach me is 
   <summary>⚡
     <strong>GitHub Stats</strong>
   </summary>
-  <img align="left" alt="CapnSane's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CapnSane&show_icons=true&hide_border=false"/>
-  <img align="left" alt="Favourite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapnSane&language=compact&hide_border=false"/>
+
+[![CapnSane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CapnSane&count_private=true&show_icons=true&theme=dracula)](https://github.com/CapnSane)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapnSane&layout=compact&theme=dracula)](https://github.com/CapnSane/github-readme-stats)
+
 </details>
