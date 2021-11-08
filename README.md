@@ -62,9 +62,10 @@ I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthu
 
 <hr>
 
+<h3>
 <details>
   <summary>
-    <strong style="color:rgb(170, 209, 0); font-size:22px;"> ⚡ GitHub Stats </strong>
+    <strong style="color:rgb(170, 209, 0);"> ⚡ GitHub Stats </strong>
   </summary>
   <br>
 
@@ -73,3 +74,4 @@ I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapnSane&layout=compact&theme=merko)](https://github.com/CapnSane/github-readme-stats)
 
 </details>
+</h3>
