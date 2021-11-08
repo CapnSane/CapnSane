@@ -1,25 +1,30 @@
-## Who am I? Where do I come from?
+<h2 style="color:rgb(170, 209, 0);"> Who am I? Where do I come from? </h2>
 
-_I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthusiast! I'm from the coldest capital of Brazil, named Curitiba._
+<i style="color:rgb(70, 200, 70);">
+I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthusiast! I'm from the coldest capital of Brazil, named Curitiba.
+</i>
 
 <!-- <img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=CapnSane"/> -->
 
 <!-- <img align="right" alt="streak" src="http://github-readme-streak-stats.herokuapp.com?user=CapnSane&hide_border=true"/> -->
 
-### A little bit about me
+<h3 style="color:rgb(170, 209, 0);"> A little bit about me </h3>
 
-- 🔭 I’m currently working on _Tarvos S.A._.
-- 🌱 I’m currently learning the web dev secrets.
-- 👯 I’m looking to collaborate on creative and innovative projects. I love challenges!
-- :dizzy: I'm Physicist, I'm a curious guy, I'm trained to solve problems, whatever they are.
-- 💬 Ask me about you want... I'll answer what I can!
-- ⚡ Fun fact:
-  - 🧝🏻 WoW player
-  - 🧑🏻‍🍳 Amateur chef
-  - 🧑🏻‍🎤 Headbanger
-  - 🎻 Upright bass player
+<ul style="color:rgb(70, 200, 70);">
+  <li> 🔭 I’m currently working on <i>Tarvos S.A.</i>. </li>
+  <li> 🌱 I’m currently learning the web dev secrets. </li>
+  <li> 👯 I’m looking to collaborate on creative and innovative projects. I love challenges! </li>
+  <li> :dizzy: I'm Physicist, I'm a curious guy, I'm trained to solve problems, whatever they are. </li>
+  <li> 💬 Ask me about you want... I'll answer what I can! </li>
+  <ul><li> ⚡ Fun fact:
+    <li> 🧝🏻 WoW player </li>
+    <li> 🧑🏻‍🍳 Amateur chef </li>
+    <li> 🧑🏻‍🎤 Headbanger </li>
+    <li> 🎻 Upright bass player</li>
+  </ul>
+</ul>
 
-### Technologies I've been working with
+<h3 style="color:rgb(170, 209, 0);">Technologies I've been working with</h3>
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25"/>
@@ -45,7 +50,7 @@ _I'm Physicist, programmer, developer, musician, and haute cuisine and tech enth
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="25" height="25"/>
 </p>
 
-### How to reach me
+<h3 style="color:rgb(170, 209, 0);">How to reach me</h3>
 
 [![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lnrdschneider@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-schneider-453071117/)
@@ -53,17 +58,18 @@ _I'm Physicist, programmer, developer, musician, and haute cuisine and tech enth
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lnrdschneider/)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/CapnSane)
 
-_Let's get in touch! I would love to hear from you! The best way to reach me is a message on e-mail, but every way is welcome!_
+<i style="color:rgb(100, 200, 0);">Let's get in touch! I would love to hear from you! The best way to reach me is a message on e-mail, but every way is welcome!</i>
 
 <hr>
 
 <details>
-  <summary>⚡
-    <strong>GitHub Stats</strong>
+  <summary>
+    <strong style="color:rgb(170, 209, 0); font-size:22px;"> ⚡ GitHub Stats </strong>
   </summary>
+  <br>
 
-[![CapnSane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CapnSane&count_private=true&show_icons=true&theme=dracula)](https://github.com/CapnSane)
+[![CapnSane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CapnSane&count_private=true&show_icons=true&theme=merko)](https://github.com/CapnSane)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapnSane&layout=compact&theme=dracula)](https://github.com/CapnSane/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapnSane&layout=compact&theme=merko)](https://github.com/CapnSane/github-readme-stats)
 
 </details>
