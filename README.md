@@ -16,12 +16,12 @@ I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthu
   <li> 👯 I’m looking to collaborate on creative and innovative projects. I love challenges! </li>
   <li> :dizzy: I'm Physicist, I'm a curious guy, I'm trained to solve problems, whatever they are. </li>
   <li> 💬 Ask me about you want... I'll answer what I can! </li>
-  <ul><li> ⚡ Fun fact:
-    <li> 🧝🏻 WoW player </li>
-    <li> 🧑🏻‍🍳 Amateur chef </li>
-    <li> 🧑🏻‍🎤 Headbanger </li>
-    <li> 🎻 Upright bass player</li>
-  </ul>
+  <li> ⚡ Fun fact:
+    <ul><li>  WoW player 🧝🏻</li>
+    <li>  Amateur chef 🧑🏻‍🍳</li>
+    <li>  Headbanger 🧑🏻‍🎤</li>
+    <li>  Upright bass player 🎻</li>
+    </ul>
 </ul>
 
 <h3 style="color:rgb(170, 209, 0);">Technologies I've been working with</h3>
