@@ -4,9 +4,9 @@
 I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthusiast! I'm from the coldest capital of Brazil, named Curitiba.
 </i>
 
-<!-- <img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=CapnSane"/> -->
+<img align="right" alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=CapnSane&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=5CDD35&fire=DD2727&ring=B1DD00&currStreakNum=DD5918&sideLabels=B1DD00&sideNums=5CDD35&dates=C11ADD&currStreakLabel=B1DD00&stroke=5CDD35"/>
 
-<!-- <img align="right" alt="streak" src="http://github-readme-streak-stats.herokuapp.com?user=CapnSane&hide_border=true"/> -->
+ <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CapnSane&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=5CDD35&fire=DD2727&ring=B1DD00&currStreakNum=DD5918&sideLabels=B1DD00&sideNums=5CDD35&dates=C11ADD&currStreakLabel=B1DD00&stroke=5CDD35)](https://git.io/streak-stats) -->
 
 <h3 style="color:rgb(170, 209, 0);"> A little bit about me </h3>
 
