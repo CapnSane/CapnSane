@@ -4,7 +4,7 @@
 I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthusiast! I'm from the coldest capital of Brazil, named Curitiba.
 </i>
 
-<!-- <img align="right" alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=CapnSane&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=5CDD35&fire=DD2727&ring=B1DD00&currStreakNum=DD5918&sideLabels=B1DD00&sideNums=5CDD35&dates=C11ADD&currStreakLabel=B1DD00&stroke=5CDD35"/> -->
+<img align="right" alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=CapnSane&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&fire=DD2727&ring=B1DD00&currStreakNum=DD5918&sideLabels=B1DD00&sideNums=5CDD35&dates=A0A0A0&currStreakLabel=B1DD00&stroke=5CDD35"/>
 
  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CapnSane&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=5CDD35&fire=DD2727&ring=B1DD00&currStreakNum=DD5918&sideLabels=B1DD00&sideNums=5CDD35&dates=C11ADD&currStreakLabel=B1DD00&stroke=5CDD35)](https://git.io/streak-stats) -->
 
@@ -63,15 +63,17 @@ I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthu
 <hr>
 
 <h3>
-<details>
+<!-- <details> -->
   <summary>
     <strong style="color:rgb(170, 209, 0);"> ⚡ GitHub Stats </strong>
   </summary>
   <br>
+<img align="left" alt="CapnSane's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CapnSane&count_private=true&show_icons=true&theme=merko"/>
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapnSane&layout=compact&theme=merko"/>
 
-[![CapnSane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CapnSane&count_private=true&show_icons=true&theme=merko)](https://github.com/CapnSane)
+<!-- [![CapnSane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CapnSane&count_private=true&show_icons=true&theme=merko)](https://github.com/CapnSane) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapnSane&layout=compact&theme=merko)](https://github.com/CapnSane/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapnSane&layout=compact&theme=merko)](https://github.com/CapnSane/github-readme-stats) -->
 
-</details>
+<!-- </details> -->
 </h3>
