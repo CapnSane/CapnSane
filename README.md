@@ -71,7 +71,7 @@ I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthu
 
 <img align="left" alt="CapnSane's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CapnSane&count_private=true&show_icons=true&layout=compact&theme=merko&border_color=B1DD00"/>
 
-<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapnSane&layout=compact&theme=merko&border_color=B1DD00"/>
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapnSane&langs_count=6&theme=merko&border_color=B1DD00"/>
 
 <!-- [![CapnSane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CapnSane&count_private=true&show_icons=true&theme=merko)](https://github.com/CapnSane) -->
 
