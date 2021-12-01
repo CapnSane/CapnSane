@@ -63,10 +63,11 @@ I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthu
 <hr>
 
 <h3>
+⚡ GitHub Stats
 <!-- <details> -->
-  <summary>
+  <!-- <summary>
     <strong style="color:rgb(170, 209, 0);"> ⚡ GitHub Stats </strong>
-  </summary>
+  </summary> -->
 </h3>
 
 <img align="left" alt="CapnSane's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CapnSane&count_private=true&show_icons=true&layout=compact&theme=merko&border_color=B1DD00"/>
