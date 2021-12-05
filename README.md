@@ -4,7 +4,10 @@
 I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthusiast! I'm from the coldest capital of Brazil, named Curitiba.
 </i>
 
-<img align="right" alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=CapnSane&background=0a0f0b&date_format=M%20j%5B%2C%20Y%5D&border=B1DD00&fire=DD2727&ring=B1DD00&currStreakNum=DD5918&sideLabels=B1DD00&sideNums=5CDD35&dates=A0A0A0&currStreakLabel=B1DD00&stroke=5CDD35"/>
+<br>
+<br>
+
+<center><img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=CapnSane&background=0a0f0b&date_format=M%20j%5B%2C%20Y%5D&border=B1DD00&fire=DD2727&ring=B1DD00&currStreakNum=DD5918&sideLabels=B1DD00&sideNums=5CDD35&dates=A0A0A0&currStreakLabel=B1DD00&stroke=5CDD35"/></center>
 
  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CapnSane&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=5CDD35&fire=DD2727&ring=B1DD00&currStreakNum=DD5918&sideLabels=B1DD00&sideNums=5CDD35&dates=C11ADD&currStreakLabel=B1DD00&stroke=5CDD35)](https://git.io/streak-stats) -->
 
