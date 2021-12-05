@@ -70,9 +70,7 @@ I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthu
   </summary> -->
 </h3>
 
-<img align="left" alt="CapnSane's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CapnSane&count_private=true&show_icons=true&layout=compact&theme=merko&border_color=B1DD00&include_all_commits=false&line_height=29&border_radius=16"/>
-
-<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapnSane&langs_count=6&theme=merko&border_color=B1DD00&border_radius=16"/>
+<p><img align="left" alt="CapnSane's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CapnSane&count_private=true&show_icons=true&layout=compact&theme=merko&border_color=B1DD00&include_all_commits=false&line_height=29&border_radius=16"/><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapnSane&langs_count=6&theme=merko&border_color=B1DD00&border_radius=16"/></p>
 
 <!-- [![CapnSane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CapnSane&count_private=true&show_icons=true&theme=merko)](https://github.com/CapnSane) -->
 
