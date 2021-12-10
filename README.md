@@ -80,6 +80,3 @@ I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthu
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapnSane&layout=compact&theme=merko)](https://github.com/CapnSane/github-readme-stats) -->
 
 <!-- </details> -->
-
-<iframe width="700" height="300" src="https://mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=67760562907" frameborder="0"></iframe>
-<!-- <iframe width="980" height="410" src="https://mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=67760562907" frameborder="0"></iframe> -->
