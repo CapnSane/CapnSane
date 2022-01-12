@@ -14,7 +14,7 @@ I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthu
 <h3 style="color:rgb(170, 209, 0);"> A little bit about me </h3>
 
 <ul style="color:rgb(70, 200, 70);">
-  <li> 🔭 I’m currently working on <i>Tarvos S.A.</i>. </li>
+  <li> 🔭 I’m currently working on <a href="https://tarvos.ag/"><i>Tarvos S.A.</i></a>. </li>
   <li> 🌱 I’m currently learning the web dev secrets. </li>
   <li> 👯 I’m looking to collaborate on creative and innovative projects. I love challenges! </li>
   <li> :dizzy: I'm Physicist, I'm a curious guy, I'm trained to solve problems, whatever they are. </li>
