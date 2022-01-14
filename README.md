@@ -4,8 +4,8 @@
 I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthusiast! I'm from the coldest capital of Brazil, named Curitiba.
 </i>
 
-<br>
-<br>
+</br>
+</br>
 
 <center><img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=CapnSane&background=0a0f0b&date_format=M%20j%5B%2C%20Y%5D&border=B1DD00&fire=DD2727&ring=B1DD00&currStreakNum=DD5918&sideLabels=B1DD00&sideNums=5CDD35&dates=A0A0A0&currStreakLabel=B1DD00&stroke=5CDD35"/></center>
 
@@ -63,7 +63,7 @@ I'm Physicist, programmer, developer, musician, and haute cuisine and tech enthu
 
 <i style="color:rgb(100, 200, 0);">Let's get in touch! I would love to hear from you! The best way to reach me is a message on e-mail, but every way is welcome!</i>
 
-<hr>
+</hr>
 
 <h3>
 ⚡ GitHub Stats
